@@ -10,9 +10,8 @@
 
 ## 📁 Projects
 - Cohort Analysis Dashboard (Power BI)
-- Customer Churn Analysis
-- Sales Data Analysis
+- Customer Churn Analysis and Sales Data Analysis(Power Bi)
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
-- LinkedIn: your link
+- Email: mizan727108@gmail.com
+- LinkedIn: linkedin.com/in/mohammadmizan8
